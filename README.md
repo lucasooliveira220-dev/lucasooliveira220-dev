@@ -95,7 +95,7 @@ Me chamo Lucas Rozario Oliveira, tenho 16 anos e sou de São Paulo. Estou cursan
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=lucasooliveira220-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>

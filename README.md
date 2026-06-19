@@ -11,7 +11,7 @@
 
 **`Back-End Developer`**
 
-Me chamo Lucas Rozario Oliveira, tenho 16 anos e sou de São Paulo. Estou cursando o ensino médio no ISJ. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Dr Ruth Cardoso. Sou apaixonada por tecnologia de hardware, jogos virtuais, Inteligência artificial e principalmente por música! 
+Me chamo Lucas Rozario Oliveira, tenho 16 anos e sou de São Paulo. Estou cursando o ensino médio no ISJ. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Dr Ruth Cardoso. Sou apaixonado por tecnologia de hardware, jogos virtuais, Inteligência artificial e principalmente por música! 
  
 #
 

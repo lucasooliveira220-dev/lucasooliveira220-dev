@@ -15,7 +15,7 @@ Me chamo Lucas Rozario Oliveira, tenho 16 anos e sou de São Paulo. Estou cursan
  
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/anime-eating.gif">
 
 <h3 align="left">Connect with me!</h3>
 

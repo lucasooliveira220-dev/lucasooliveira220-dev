@@ -7,7 +7,7 @@
 
 #
 
-# 👩🏻‍💻 Lucas Rozario
+# 👩🏻‍💻 Lucas Mogario
 
 **`Back-End Developer`**
 
